@@ -35,3 +35,32 @@ Trabalhe em equipe para capturar a bandeira inimiga e proteger a sua base!
 ## 💡 Como Começar
 1. **Entre no Minecraft** e selecione a opção para **jogar multiplayer**.
 2. Adicione o nosso servidor com o IP:
+
+3. 3. Entre e aproveite o universo de minigames no Beoceafy!
+
+---
+
+## 🚀 Conecte-se com a Comunidade
+Participe da nossa comunidade e fique por dentro de todas as novidades e eventos:
+- **Discord**: [Link para o Discord do Beoceafy](#)
+- **Twitter**: [@BeoceafyMC](#)
+- **Instagram**: [@BeoceafyOfficial](#)
+
+---
+
+## 🌟 Equipe
+Nosso servidor é mantido por uma equipe dedicada de administradores e moderadores prontos para ajudar e tornar o Beoceafy um lugar seguro e divertido para todos.
+
+👤 **Fundadores:** Chase e ChatGPT  
+🎨 **Design & Layout:** Inspirado pela comunidade!
+
+---
+
+## 🎉 Junte-se à diversão!
+Entre no Beoceafy e experimente a magia dos melhores minigames do Minecraft! Esperamos por você!
+
+**Divirta-se e boa sorte, jogador!** 🚀
+
+---
+
+> Feito com ❤️ por **Beoceafy Team** - *O servidor que leva diversão a um novo nível!*
