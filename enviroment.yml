@@ -1,0 +1,6 @@
+name: jupyter_notebook
+channels:
+  - conda-forge
+  dependencies:
+    - nano
+    - wget
