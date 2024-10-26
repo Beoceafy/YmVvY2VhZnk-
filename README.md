@@ -64,3 +64,4 @@ Entre no Beoceafy e experimente a magia dos melhores minigames do Minecraft! Esp
 ---
 
 > Feito com ❤️ por **Beoceafy Team** - *O servidor que leva diversão a um novo nível!*
+**launch mybinder** » https://mybinder.org/v2/gh/Beoceafy/YmVvY2VhZnk-.git/HEAD
