@@ -1,52 +1,77 @@
-[00:27:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:27:18] [ServerMain/INFO]: Loaded 1174 recipes
-[00:27:19] [ServerMain/INFO]: Loaded 1271 advancements
-[00:27:19] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[00:27:19] [Server thread/INFO]: Loading properties
-[00:27:19] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
-[00:27:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:27:21] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:27:21] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[01:38:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:38:12] [ServerMain/INFO]: Loaded 1174 recipes
+[01:38:13] [ServerMain/INFO]: Loaded 1271 advancements
+[01:38:13] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[01:38:13] [Server thread/INFO]: Loading properties
+[01:38:13] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[01:38:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:38:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:38:15] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[00:27:21] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[00:27:22] [Server thread/INFO]: Default game type: SURVIVAL
-[00:27:22] [Server thread/INFO]: Generating keypair
-[00:27:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:27:22] [Server thread/INFO]: Using epoll channel type
-[00:27:22] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:27:22] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:27:22] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
-[00:27:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:27:22] [Server thread/INFO]: Preparing level "world"
-[00:27:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:27:24] [Server thread/INFO]: Time elapsed: 327 ms
-[00:27:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:27:24] [Server thread/INFO]: Time elapsed: 252 ms
-[00:27:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:27:24] [Server thread/INFO]: Time elapsed: 95 ms
-[00:27:24] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
-[00:27:26] [Thread-7/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key found, checking
-[00:27:26] [Thread-7/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
-[00:27:26] [Server thread/INFO]: Running delayed init tasks
-[00:27:26] [Server thread/INFO]: Done (7.205s)! For help, type "help"
-[00:27:26] [Server thread/INFO]: Timings Reset
-[00:27:28] [Thread-7/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: existing-bahrain.joinmc.link
-[00:27:28] [Thread-7/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
-[00:27:28] [Thread-7/INFO]: playit.gg: tunnel setup
-[00:27:28] [Thread-7/INFO]: playit.gg: existing-bahrain.joinmc.link
-[00:27:28] [Thread-7/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:82c:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
-[00:27:28] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
-[00:27:29] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
-[00:31:30] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:35:30] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:39:31] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:43:31] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:47:31] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:51:31] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:55:31] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[00:59:32] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[01:03:32] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[01:07:32] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[01:11:32] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[01:15:32] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[01:38:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[01:38:16] [Server thread/INFO]: Default game type: SURVIVAL
+[01:38:16] [Server thread/INFO]: Generating keypair
+[01:38:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:38:16] [Server thread/INFO]: Using epoll channel type
+[01:38:16] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:38:16] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[01:38:16] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
+[01:38:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:38:16] [Server thread/INFO]: Preparing level "world"
+[01:38:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:38:18] [Server thread/INFO]: Time elapsed: 329 ms
+[01:38:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:38:18] [Server thread/INFO]: Time elapsed: 220 ms
+[01:38:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:38:18] [Server thread/INFO]: Time elapsed: 89 ms
+[01:38:18] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[01:38:20] [Thread-7/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key found, checking
+[01:38:20] [Thread-7/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
+[01:38:20] [Server thread/INFO]: Running delayed init tasks
+[01:38:20] [Server thread/INFO]: Done (6.750s)! For help, type "help"
+[01:38:20] [Server thread/INFO]: Timings Reset
+[01:38:21] [Thread-7/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: existing-bahrain.joinmc.link
+[01:38:21] [Thread-7/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
+[01:38:21] [Thread-7/INFO]: playit.gg: tunnel setup
+[01:38:21] [Thread-7/INFO]: playit.gg: existing-bahrain.joinmc.link
+[01:38:22] [Thread-7/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:82c:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[01:38:22] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[01:38:23] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[01:42:24] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[01:46:24] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[01:50:24] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[01:54:25] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[01:58:25] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[02:02:25] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[02:06:25] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[02:10:25] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[02:14:26] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[02:18:26] [Thread-7/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[02:18:30] [Server thread/INFO]: Stopping the server
+[02:18:30] [Server thread/INFO]: Stopping server
+[02:18:30] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
+[02:18:30] [Server thread/INFO]: Saving players
+[02:18:31] [Server thread/INFO]: Saving worlds
+[02:18:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:18:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:18:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:18:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:18:31] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 42 entity chunks, 0 poi chunks in world 'world' in 0.02s
+[02:18:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:18:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:18:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:18:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:18:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:18:31] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 22 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
+[02:18:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:18:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:18:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:18:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:18:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:18:31] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[02:18:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:18:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:18:31] [Server thread/INFO]: Flushing Chunk IO
+[02:18:31] [Server thread/INFO]: Closing Thread Pool
+[02:18:31] [Server thread/INFO]: Closing Server
